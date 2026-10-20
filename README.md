@@ -7,7 +7,7 @@
   <p>Construyendo productos digitales escalables con una sólida base en lógica de programación y diseño de software.</p>
 
   <p>
-    <a href="https://miriantrujillomerino.onrender.com">🌐 <b>Visita mi portafolio web</b></a>
+    <a href="https://miriantrujillomerino.onrender.com">🌐 <b>Visita mi CV web</b></a>
   </p>
 
   <br />
@@ -62,10 +62,10 @@ Aquí en `miritru` encontrarás mi portafolio personal, experimentación técnic
 
 <div align="center">
   <a href="https://github.com/miritru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miritru&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de miritru" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miritru&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" alt="Estadísticas de miritru" />
   </a>
   
   <a href="https://github.com/miritru">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miritru&layout=compact&theme=radium&hide_border=true" alt="Top Lenguajes" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miritru&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Top Lenguajes" />
   </a>
 </div>
