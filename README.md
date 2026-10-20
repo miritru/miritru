@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="linkedin_banner_v8.png" alt="Mirian Trujillo - Full Stack Developer Banner" width="100%" />
+  <img src="banner.png" alt="Mirian Trujillo - Full Stack Developer Banner" width="100%" />
 
   <h1>Hola, soy Mirian 👋</h1>
   <h3>Desarrolladora Full Stack | Estudiante de Ingeniería Informática</h3>
