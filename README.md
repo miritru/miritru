@@ -6,7 +6,7 @@
   <p>Construyendo productos digitales escalables con una sólida base en lógica de programación y diseño de software.</p>
 
   <p>
-    <a href="https://miriantrujillomerino.onrender.com">🌐 <b>Visita mi CV web</b></a>
+    <a href="https://miritru.github.io/miritru-web">🌐 <b>Visita mi CV web</b></a>
   </p>
 
   <br />
